@@ -1,0 +1,14 @@
+{
+  "title": "Cloud export and retention policy",
+  "type": "policy",
+  "authority": "official",
+  "section": "Exports · current policy",
+  "product": "Nimbus Cloud",
+  "plan": "All plans",
+  "region": "Global",
+  "issue_type": "Data export",
+  "updated": "2026-09-15",
+  "effective_date": "2026-09-15",
+  "roles": ["agent", "specialist", "admin"],
+  "content": "Workspace owners on all Nimbus Cloud plans can request a standard workspace export from Settings > Data. The export includes records and attachments created in the workspace. Exports are prepared asynchronously; the interface shows status when the file is ready. Support must not promise a completion time. Export links expire after 7 days. Data residency region does not change this process. A deleted workspace cannot be exported through self-service; route such requests to a data specialist for review."
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Atlas Billing · find an invoice",
+  "type": "product_doc",
+  "authority": "official",
+  "section": "Invoice history",
+  "product": "Atlas Billing",
+  "plan": "All plans",
+  "region": "Global",
+  "issue_type": "Billing",
+  "updated": "2026-08-20",
+  "effective_date": "2026-08-20",
+  "roles": ["agent", "specialist", "admin"],
+  "content": "Account owners can view invoices from Workspace settings, Billing, then Invoice history. Selecting an invoice opens its receipt and downloadable PDF. If an expected invoice is missing, verify that the customer is in the correct workspace and that their role is account owner or billing manager. Support agents cannot change payment methods or edit invoice addresses on the customer's behalf."
+}

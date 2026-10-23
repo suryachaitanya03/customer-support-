@@ -1,0 +1,14 @@
+{
+  "title": "Archived Atlas refund guidance · superseded",
+  "type": "policy",
+  "authority": "official",
+  "section": "Archived agent permissions",
+  "product": "Atlas Billing",
+  "plan": "All plans",
+  "region": "US",
+  "issue_type": "Refund",
+  "updated": "2024-03-01",
+  "effective_date": "2024-03-01",
+  "roles": ["specialist", "admin"],
+  "content": "ARCHIVED — superseded by the current refund eligibility policy. Under the former process, frontline agents may approve refunds for duplicate charges. Do not use this process; refer to the current billing policy."
+}

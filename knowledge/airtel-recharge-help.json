@@ -1,0 +1,15 @@
+{
+  "title": "Airtel Prepaid · recharge history and receipt",
+  "type": "help_article",
+  "authority": "official",
+  "source_url": "https://www.airtel.in/recharge/prepaid/",
+  "section": "Prepaid FAQ · transaction history and receipt",
+  "product": "Airtel Prepaid",
+  "plan": "Prepaid",
+  "region": "India",
+  "issue_type": "Recharge",
+  "updated": "2026-10-23",
+  "effective_date": "2026-10-23",
+  "roles": ["agent", "specialist", "admin"],
+  "content": "Airtel says recent prepaid recharge transactions can be reviewed in the Airtel Thanks app. On airtel.in, sign in, open the account menu, and choose transaction history. A receipt can be opened from Help, then transaction history, by selecting the recharge and choosing Download Receipt. The page says a successful recharge cannot be cancelled. For a recharge not visible or a number-specific issue, verify the transaction in the signed-in account and contact Airtel through its official app or website. Do not promise a refund or plan change without checking the current transaction status and applicable guidance. Source checked for this demo on 2026-10-23; the source page does not state a publication date."
+}

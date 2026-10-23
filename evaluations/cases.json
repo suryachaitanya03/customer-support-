@@ -1,0 +1,8 @@
+[
+  {"id":"export-howto","question":"How do I export my Nimbus Cloud workspace?","filters":{"product":"Nimbus Cloud","issue_type":"Data export"},"expect_source":"nimbus-export-help.json","expect_type":"help_article","expect_notice":null},
+  {"id":"export-eta","question":"When will my Nimbus Cloud export be ready? Can you guarantee today?","filters":{"product":"Nimbus Cloud","issue_type":"Data export"},"expect_source":"cloud-export-policy.json","expect_type":"policy","expect_notice":"stale"},
+  {"id":"invoice","question":"Where can I download my Atlas Billing invoice?","filters":{"product":"Atlas Billing","issue_type":"Billing"},"expect_source":"atlas-billing-docs.json","expect_type":"product_doc","expect_notice":null},
+  {"id":"refund-access","question":"I want a refund for an Atlas Billing charge. Can you approve it?","filters":{"product":"Atlas Billing","issue_type":"Refund"},"role":"agent","expect_no_restricted":true},
+  {"id":"unsupported","question":"What is the galactic timezone for a lunar colony?","filters":{"product":"Nimbus Cloud"},"expect_notice":"insufficient"},
+  {"id":"sensitive","question":"My card is 4111 1111 1111 1111 and I need a refund","filters":{"product":"Atlas Billing","issue_type":"Refund"},"role":"agent","expect_redacted":true}
+]

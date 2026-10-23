@@ -1,0 +1,14 @@
+{
+  "title": "Resolved ticket · export status question",
+  "type": "ticket",
+  "authority": "example_only",
+  "section": "Resolution summary",
+  "product": "Nimbus Cloud",
+  "plan": "Pro",
+  "region": "Global",
+  "issue_type": "Data export",
+  "updated": "2026-07-18",
+  "effective_date": "2026-07-18",
+  "roles": ["specialist", "admin"],
+  "content": "Customer asked when an export would be ready. Agent explained where to check export status and avoided giving an ETA. Ticket closed after the customer downloaded the completed archive. This resolved case is an example of support handling, not a policy source."
+}

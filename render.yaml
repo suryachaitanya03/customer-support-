@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: customer-support-copilot
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python3 server.py
+    healthCheckPath: /healthz
+    envVars:
+      - key: APP_ENV
+        value: production
+      - key: HOST
+        value: 0.0.0.0
+      - key: SUPPORT_USERS
+        sync: false

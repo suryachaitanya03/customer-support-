@@ -1,0 +1,14 @@
+{
+  "title": "Atlas Billing · refund eligibility",
+  "type": "policy",
+  "authority": "official",
+  "section": "Eligibility and review",
+  "product": "Atlas Billing",
+  "plan": "All plans",
+  "region": "US",
+  "issue_type": "Refund",
+  "updated": "2026-10-01",
+  "effective_date": "2026-10-01",
+  "roles": ["specialist", "admin"],
+  "content": "Refund eligibility depends on the transaction, applicable regional rules, and account history. Frontline support agents must not promise, approve, or estimate a refund. A billing specialist reviews the transaction and communicates the outcome. Do not collect full card numbers or security codes in support conversations. Verify the invoice ID and account email through the approved secure workflow before escalation."
+}

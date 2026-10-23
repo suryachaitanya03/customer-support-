@@ -1,0 +1,15 @@
+{
+  "title": "NPCI UPI · pending or failed payment",
+  "type": "help_article",
+  "authority": "official",
+  "source_url": "https://www.npci.org.in/what-we-do/upi/faqs",
+  "section": "Customer FAQs · transaction status and safety",
+  "product": "UPI payments",
+  "plan": "All plans",
+  "region": "India",
+  "issue_type": "Payment status",
+  "updated": "2026-10-23",
+  "effective_date": "2026-10-23",
+  "roles": ["agent", "specialist", "admin"],
+  "content": "For a UPI payment that appears pending, the customer can review past and pending payments in the transaction history of their UPI app. If an account was debited for a failed payment and the reversal has not appeared, NPCI advises contacting the customer's bank. Customers can raise or check a UPI transaction grievance through their participating bank's UPI app. Never ask for or share a UPI PIN; bank support will not ask for it. Do not infer the transaction outcome, promise a reversal time, or ask for an OTP or PIN. Source checked for this demo on 2026-10-23; the source page does not state a publication date."
+}

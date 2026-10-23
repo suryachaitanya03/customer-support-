@@ -1,0 +1,14 @@
+{
+  "title": "Request a Nimbus Cloud workspace export",
+  "type": "help_article",
+  "authority": "official",
+  "section": "Steps 1–3",
+  "product": "Nimbus Cloud",
+  "plan": "All plans",
+  "region": "Global",
+  "issue_type": "Data export",
+  "updated": "2026-09-12",
+  "effective_date": "2026-09-12",
+  "roles": ["agent", "specialist", "admin"],
+  "content": "To request an export, sign in as a workspace owner, open Settings, choose Data, then select Create export. Keep the page open or return later to check status. When ready, download the archive from the export panel. If Create export is unavailable, confirm the signed-in user is a workspace owner. Do not ask customers to email an export of their data to support."
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Legacy export instructions (archived)",
+  "type": "help_article",
+  "authority": "official",
+  "section": "Archived instructions",
+  "product": "Nimbus Cloud",
+  "plan": "All plans",
+  "region": "Global",
+  "issue_type": "Data export",
+  "updated": "2024-02-10",
+  "effective_date": "2024-02-10",
+  "roles": ["agent", "specialist", "admin"],
+  "content": "ARCHIVED — Do not use. The old export flow used Admin > Backups and said that archive preparation normally completed within one business day. This interface was retired. Refer to the current export and retention policy."
+}
